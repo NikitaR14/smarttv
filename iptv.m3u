@@ -44,26 +44,10 @@ https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,107
 #EXTGRP:Российские
 https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 
-#EXTINF:-1 group-title="Детские",2x2
-https://mhd116.iptv2022.com/p/LBE_Ig2WPXxEz3GEy1kw6A,1668185495/streaming/2x2/324/1/tracks-v3a1/mono.m3u8
-
 #EXTINF:-1,2x2 HD
 #EXTGRP:Детские
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 
-#EXTINF:-1,Disney
-#EXTGRP:Детские
-https://mhd116.iptv2022.com/p/USKJQ37FA_UUS8ZdV14OvA,1668546431/streaming/disney/324/1/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,Суббота! HD
 #EXTGRP:Российские
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-
-#EXTINF:-1 group-title="Познавательные",Animal Planet 
-http://195.161.68.11:8000/play/a003/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные",Viasat Nature
-http://195.161.68.11:8000/play/a00f/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные",History
-http://193.233.9.49/streams/media/Viasat_History/index.m3u8
