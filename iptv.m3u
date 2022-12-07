@@ -1,0 +1,69 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+
+#EXTINF:-1 group-title="Развлекательные",НТВ
+https://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v4a1/mono.m3u8
+
+#EXTINF:-1 group-title="Развлекательные",НТВ Сериал
+https://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Мир HD
+#EXTGRP:Российские
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+
+#EXTINF:-1,Мир (+4)
+#EXTGRP:Российские
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0,Мир Premium
+#EXTGRP:Российские
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0,Мир 24 HD 
+#EXTGRP:Российские
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Развлекательные",СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+
+#EXTINF:-1,СТС International
+#EXTGRP:Российские
+https://sc.id-tv.kz/STS_34_35.m3u8
+
+#EXTINF:-1,ТНТ HD
+#EXTGRP:Российские
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:-1,ТНТ4 HD
+#EXTGRP:Российские
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1,ТВ-3 FHD
+#EXTGRP:Российские
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:-1,Пятница HD
+#EXTGRP:Российские
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+
+#EXTINF:-1 group-title="Детские",2x2
+https://mhd116.iptv2022.com/p/LBE_Ig2WPXxEz3GEy1kw6A,1668185495/streaming/2x2/324/1/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1,2x2 HD
+#EXTGRP:Детские
+https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
+
+#EXTINF:-1,Disney
+#EXTGRP:Детские
+https://mhd116.iptv2022.com/p/USKJQ37FA_UUS8ZdV14OvA,1668546431/streaming/disney/324/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Суббота! HD
+#EXTGRP:Российские
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Animal Planet 
+http://195.161.68.11:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",Viasat Nature
+http://195.161.68.11:8000/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="Познавательные",History
+http://193.233.9.49/streams/media/Viasat_History/index.m3u8
