@@ -32,3 +32,60 @@ https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/37
 #EXTINF:-1,Суббота!
 #EXTGRP:Российские
 https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+
+#EXTINF:-1 group-title="KINO+",TV1000 Action 
+https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8
+#EXTINF:-1 group-title="KINO+",Viju+ TV1000 Action
+http://139.28.255.251:8000/play/a00n
+#EXTINF:-1 group-title="KINO+",TV 1000 Action
+http://77.240.45.106:18888/play/a054
+#EXTINF:-1 group-title="KINO+",TV1000 Action r
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/42064
+#EXTINF:-1 group-title="KINO+",Viju+ TV1000
+http://139.28.255.251:8000/play/a00l
+#EXTINF:-1 group-title="KINO+",Viju TV1000
+rtmp://178.159.112.198//tv1000
+#EXTINF:-1 group-title="KINO+",TV1000
+http://mfe02.cliptv.az/dash/TV1000_SDdhopq23e.ism/playlist.mpd
+#EXTINF:-1 group-title="KINO+",TV-1000
+https://sc.id-tv.kz:443/TV1000_34_35.m3u8
+#EXTINF:-1 group-title="KINO+",TV1000 HD iptv.org.ua
+http://streamer1.ruslanatv.ru/russia/tv1000_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",TV1000 r
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/12787
+#EXTINF:-1 group-title="KINO+",TV1000
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/12787
+#EXTINF:-1 group-title="KINO+",TV1000 Р кино
+https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8
+#EXTINF:-1 group-title="KINO+",Viju TV1000 Р кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1 group-title="KINO+",Viasat Kino Comedy
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+#EXTINF:-1 group-title="KINO+",VIP Comedy
+http://europe3.livetv.az/russia/vip_comedy_2023/playlist.m3u8
+#EXTINF:-1 group-title="KINO+",Viju+ Comedy
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/43986
+#EXTINF:-1 group-title="KINO+",VIP Comedy HD
+http://mfe02.cliptv.az/dash/VIP_Comedy_HD_PIVqwcvrtui79.ism/playlist.mpd
+#EXTINF:-1 group-title="KINO+",VIP Megahit
+http://139.28.255.251:8000/play/a00e
+#EXTINF:-1 group-title="KINO+",Viju+  Megahit
+http://aflaxtv.xyz:8080/Millenium/7Se7MBqtCsEEt3VC/80168
+#EXTINF:-1 group-title="KINO+",VIP Megahit HD
+http://mfe01.cliptv.az/dash/VIP_Megahit_HD_PIVuyhjmn45.ism/playlist.mpd
+#EXTINF:-1 group-title="KINO+",Film UA DRAMA
+http://85.223.221.130:8000/play/a087
+#EXTINF:-1 group-title="KINO+",Viju+  Premiere
+http://139.28.255.251:8000/play/a00e
+#EXTINF:-1 group-title="KINO+",VIP Premiere HD
+http://mfe02.cliptv.az/dash/VIP_Premium_HD_PIVqwerty89.ism/playlist.mpd
+#EXTINF:-1 group-title="KINO+",VIP Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="KINO+",VIP Serial
+http://94.229.250.73:8008/play/a003
+#EXTINF:-1 group-title="KINO+",Блокбастер
+http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
+#EXTINF:-1 group-title="KINO+",Paramount Comedy
+http://85.223.221.130:8000/play/a07h
+#EXTINF:-1 group-title="KINO+",Камеди
+http://185.23.80.26:8080/lb/Camedi/index.m3u8
